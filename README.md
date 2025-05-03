@@ -2,7 +2,6 @@
 ---
 
 ## Features
-  - User authentication
   - Weather updates in real-time
   - Interactive UI
   - Realtime Charts
